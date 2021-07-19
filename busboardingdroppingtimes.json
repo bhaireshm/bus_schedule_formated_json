@@ -1,0 +1,302 @@
+[
+  {
+    "_id": {
+      "$oid": "60eda4c8c4b549a13004a7cf"
+    },
+    "departureDropTimesId": "1",
+    "pincode": "570001",
+    "address": "Mysore Bus Stand",
+    "landmark": "Mysore Bus Stand",
+    "cityTown": "Mysore",
+    "time": "12:30:00",
+    "contactNumbers": "9999900000",
+    "contactPersons": "Rama",
+    "latitude": "12.29",
+    "longitude": "76.64"
+  },
+  {
+    "_id": {
+      "$oid": "60eda4c8c4b549a13004a7d0"
+    },
+    "departureDropTimesId": "2",
+    "pincode": "571401",
+    "address": "Mandya Bus Stand",
+    "landmark": "Mandya Bus Stand",
+    "cityTown": "Mandya",
+    "time": "13:15:00",
+    "contactNumbers": "9999900002",
+    "contactPersons": "Shama",
+    "latitude": "12.52",
+    "longitude": "76.96"
+  },
+  {
+    "_id": {
+      "$oid": "60eda4c8c4b549a13004a7d1"
+    },
+    "departureDropTimesId": "3",
+    "pincode": "562160",
+    "address": "Channapatna Bus Stand",
+    "landmark": "Channapatna Bus Stand",
+    "cityTown": "Channapatna",
+    "time": "15:00:00",
+    "contactNumbers": "9999900003",
+    "contactPersons": "Malli",
+    "latitude": "12.65",
+    "longitude": "77.2"
+  },
+  {
+    "_id": {
+      "$oid": "60eda4c8c4b549a13004a7d2"
+    },
+    "departureDropTimesId": "4",
+    "pincode": "560001",
+    "address": "Majestic Bus Stand",
+    "landmark": "Majestic",
+    "cityTown": "Bangalore",
+    "time": "16:30:00",
+    "contactNumbers": "9999900001",
+    "contactPersons": "Soma",
+    "latitude": "12.97",
+    "longitude": "77.57"
+  },
+  {
+    "_id": {
+      "$oid": "60eda4c8c4b549a13004a7d3"
+    },
+    "departureDropTimesId": "5",
+    "pincode": "144001",
+    "address": "Jalandar Bus Stand",
+    "landmark": "Jalandar Bus Stand",
+    "cityTown": "Jalandar",
+    "time": "10:30:00",
+    "contactNumbers": "9999900004",
+    "contactPersons": "Surya",
+    "latitude": "31.31",
+    "longitude": "75.59"
+  },
+  {
+    "_id": {
+      "$oid": "60eda4c8c4b549a13004a7d4"
+    },
+    "departureDropTimesId": "6",
+    "pincode": "160047",
+    "address": "Chandigarh Bus Stand",
+    "landmark": "Sec.43 Bus Stand ISBT",
+    "cityTown": "Chandigarh",
+    "time": "13:00:00",
+    "contactNumbers": "9999900005",
+    "contactPersons": "Shanker",
+    "latitude": "30.73",
+    "longitude": "76.77"
+  },
+  {
+    "_id": {
+      "$oid": "60eda4c8c4b549a13004a7d5"
+    },
+    "departureDropTimesId": "7",
+    "pincode": "131001",
+    "address": "Sonipat Bus Stand",
+    "landmark": "Sonipat Bus Stand",
+    "cityTown": "Sonipat",
+    "time": "19:00:00",
+    "contactNumbers": "9999900006",
+    "contactPersons": "Ravi",
+    "latitude": "38.99",
+    "longitude": "77.02"
+  },
+  {
+    "_id": {
+      "$oid": "60eda4c8c4b549a13004a7d6"
+    },
+    "departureDropTimesId": "8",
+    "pincode": "110006",
+    "address": "ISBT Kashmere Gate",
+    "landmark": "Delhi",
+    "cityTown": "Delhi",
+    "time": "20:00:00",
+    "contactNumbers": "9999900007",
+    "contactPersons": "Mohan",
+    "latitude": "28.66",
+    "longitude": "77.23"
+  },
+  {
+    "_id": {
+      "$oid": "60eda4c8c4b549a13004a7d7"
+    },
+    "departureDropTimesId": "9",
+    "pincode": "312001",
+    "address": "Chittorgarh Mandalda Bus Stand",
+    "landmark": "Chittorgarh",
+    "cityTown": "Chittorgarh",
+    "time": "22:00:00",
+    "contactNumbers": "9999900008",
+    "contactPersons": "Kisan",
+    "latitude": "24.88",
+    "longitude": "74.62"
+  },
+  {
+    "_id": {
+      "$oid": "60eda4c8c4b549a13004a7d8"
+    },
+    "departureDropTimesId": "10",
+    "pincode": "302006",
+    "address": "Jaipur Sindhi Camp Bus Stand",
+    "landmark": "Jaipur",
+    "cityTown": "Jaipur",
+    "time": "04:45:00",
+    "contactNumbers": "9999900009",
+    "contactPersons": "Dharma",
+    "latitude": "26.83",
+    "longitude": "75.82"
+  },
+  {
+    "_id": {
+      "$oid": "60eda4c8c4b549a13004a7d9"
+    },
+    "departureDropTimesId": "11",
+    "pincode": "585102",
+    "address": "Gulburga Bus Stand",
+    "landmark": "Gulburga Bus Stand",
+    "cityTown": "Gulburga",
+    "time": "23:30:00",
+    "contactNumbers": "9999900007",
+    "contactPersons": "Rohit",
+    "latitude": "17.32",
+    "longitude": "76.81"
+  },
+  {
+    "_id": {
+      "$oid": "60eda4c8c4b549a13004a7da"
+    },
+    "departureDropTimesId": "12",
+    "pincode": "500095",
+    "address": "MGBS Bus Stand",
+    "landmark": "Gowliguda North, Gowliguda",
+    "cityTown": "Hyderabad",
+    "time": "04:30:00",
+    "contactNumbers": "9999900008",
+    "contactPersons": "Das",
+    "latitude": "17.37",
+    "longitude": "78.48"
+  },
+  {
+    "_id": {
+      "$oid": "60eda4c8c4b549a13004a7db"
+    },
+    "departureDropTimesId": "13",
+    "pincode": "500026",
+    "address": "Jubilee Bus Station Secunderabad",
+    "landmark": "Jubilee Bus Station",
+    "cityTown": "Secunderabad",
+    "time": "05:00:00",
+    "contactNumbers": "9999900009",
+    "contactPersons": "Karthik",
+    "latitude": "17.43",
+    "longitude": "78.50 "
+  },
+  {
+    "_id": {
+      "$oid": "60eda4c8c4b549a13004a7dc"
+    },
+    "departureDropTimesId": "14",
+    "pincode": "570001",
+    "address": "Mysore Bus Stand",
+    "landmark": "Mysore Bus Stand",
+    "cityTown": "Mysore",
+    "time": "16:30:00",
+    "contactNumbers": "9999900000",
+    "contactPersons": "Rama",
+    "latitude": "12.29",
+    "longitude": "76.64"
+  },
+  {
+    "_id": {
+      "$oid": "60eda4c8c4b549a13004a7dd"
+    },
+    "departureDropTimesId": "15",
+    "pincode": "571401",
+    "address": "Mandya Bus Stand",
+    "landmark": "Mandya Bus Stand",
+    "cityTown": "Mandya",
+    "time": "17:15:00",
+    "contactNumbers": "9999900002",
+    "contactPersons": "Shama",
+    "latitude": "12.52",
+    "longitude": "76.96"
+  },
+  {
+    "_id": {
+      "$oid": "60eda4c8c4b549a13004a7de"
+    },
+    "departureDropTimesId": "16",
+    "pincode": "562160",
+    "address": "Channapatna Bus Stand",
+    "landmark": "Channapatna Bus Stand",
+    "cityTown": "Channapatna",
+    "time": "19:00:00",
+    "contactNumbers": "9999900003",
+    "contactPersons": "Malli",
+    "latitude": "12.65",
+    "longitude": "77.2"
+  },
+  {
+    "_id": {
+      "$oid": "60eda4c8c4b549a13004a7df"
+    },
+    "departureDropTimesId": "17",
+    "pincode": "560001",
+    "address": "Majestic Bus Stand",
+    "landmark": "Majestic",
+    "cityTown": "Bangalore",
+    "time": "20:30:00",
+    "contactNumbers": "9999900001",
+    "contactPersons": "Soma",
+    "latitude": "12.97",
+    "longitude": "77.57"
+  },
+  {
+    "_id": {
+      "$oid": "60eda4c8c4b549a13004a7e0"
+    },
+    "departureDropTimesId": "18",
+    "pincode": "585102",
+    "address": "Gulburga Bus Stand",
+    "landmark": "Gulburga Bus Stand",
+    "cityTown": "Gulburga",
+    "time": "23:30:00",
+    "contactNumbers": "9999900007",
+    "contactPersons": "Rohit",
+    "latitude": "17.32",
+    "longitude": "76.81"
+  },
+  {
+    "_id": {
+      "$oid": "60eda4c8c4b549a13004a7e1"
+    },
+    "departureDropTimesId": "19",
+    "pincode": "500095",
+    "address": "MGBS Bus Stand",
+    "landmark": "Gowliguda North, Gowliguda",
+    "cityTown": "Hyderabad",
+    "time": "04:00:00",
+    "contactNumbers": "9999900008",
+    "contactPersons": "Das",
+    "latitude": "17.37",
+    "longitude": "78.48"
+  },
+  {
+    "_id": {
+      "$oid": "60eda4c8c4b549a13004a7e2"
+    },
+    "departureDropTimesId": "20",
+    "pincode": "500026",
+    "address": "Jubilee Bus Station Secunderabad",
+    "landmark": "Jubilee Bus Station",
+    "cityTown": "Secunderabad",
+    "time": "04:30:00",
+    "contactNumbers": "9999900009",
+    "contactPersons": "Karthik",
+    "latitude": "17.43",
+    "longitude": "78.50 "
+  }
+]

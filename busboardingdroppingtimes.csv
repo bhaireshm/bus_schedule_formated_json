@@ -1,0 +1,21 @@
+_id,address,cityTown,contactNumbers,contactPersons,departureDropTimesId,landmark,latitude,longitude,pincode,time
+60eda4c8c4b549a13004a7cf,Mysore Bus Stand,Mysore,9999900000,Rama,1,Mysore Bus Stand,12.29,76.64,570001,12:30:00
+60eda4c8c4b549a13004a7d0,Mandya Bus Stand,Mandya,9999900002,Shama,2,Mandya Bus Stand,12.52,76.96,571401,13:15:00
+60eda4c8c4b549a13004a7d1,Channapatna Bus Stand,Channapatna,9999900003,Malli,3,Channapatna Bus Stand,12.65,77.2,562160,15:00:00
+60eda4c8c4b549a13004a7d2,Majestic Bus Stand,Bangalore,9999900001,Soma,4,Majestic,12.97,77.57,560001,16:30:00
+60eda4c8c4b549a13004a7d3,Jalandar Bus Stand,Jalandar,9999900004,Surya,5,Jalandar Bus Stand,31.31,75.59,144001,10:30:00
+60eda4c8c4b549a13004a7d4,Chandigarh Bus Stand,Chandigarh,9999900005,Shanker,6,Sec.43 Bus Stand ISBT,30.73,76.77,160047,13:00:00
+60eda4c8c4b549a13004a7d5,Sonipat Bus Stand,Sonipat,9999900006,Ravi,7,Sonipat Bus Stand,38.99,77.02,131001,19:00:00
+60eda4c8c4b549a13004a7d6,ISBT Kashmere Gate,Delhi,9999900007,Mohan,8,Delhi,28.66,77.23,110006,20:00:00
+60eda4c8c4b549a13004a7d7,Chittorgarh Mandalda Bus Stand,Chittorgarh,9999900008,Kisan,9,Chittorgarh,24.88,74.62,312001,22:00:00
+60eda4c8c4b549a13004a7d8,Jaipur Sindhi Camp Bus Stand,Jaipur,9999900009,Dharma,10,Jaipur,26.83,75.82,302006,04:45:00
+60eda4c8c4b549a13004a7d9,Gulburga Bus Stand,Gulburga,9999900007,Rohit,11,Gulburga Bus Stand,17.32,76.81,585102,23:30:00
+60eda4c8c4b549a13004a7da,MGBS Bus Stand,Hyderabad,9999900008,Das,12,"Gowliguda North, Gowliguda",17.37,78.48,500095,04:30:00
+60eda4c8c4b549a13004a7db,Jubilee Bus Station Secunderabad,Secunderabad,9999900009,Karthik,13,Jubilee Bus Station,17.43,78.50 ,500026,05:00:00
+60eda4c8c4b549a13004a7dc,Mysore Bus Stand,Mysore,9999900000,Rama,14,Mysore Bus Stand,12.29,76.64,570001,16:30:00
+60eda4c8c4b549a13004a7dd,Mandya Bus Stand,Mandya,9999900002,Shama,15,Mandya Bus Stand,12.52,76.96,571401,17:15:00
+60eda4c8c4b549a13004a7de,Channapatna Bus Stand,Channapatna,9999900003,Malli,16,Channapatna Bus Stand,12.65,77.2,562160,19:00:00
+60eda4c8c4b549a13004a7df,Majestic Bus Stand,Bangalore,9999900001,Soma,17,Majestic,12.97,77.57,560001,20:30:00
+60eda4c8c4b549a13004a7e0,Gulburga Bus Stand,Gulburga,9999900007,Rohit,18,Gulburga Bus Stand,17.32,76.81,585102,23:30:00
+60eda4c8c4b549a13004a7e1,MGBS Bus Stand,Hyderabad,9999900008,Das,19,"Gowliguda North, Gowliguda",17.37,78.48,500095,04:00:00
+60eda4c8c4b549a13004a7e2,Jubilee Bus Station Secunderabad,Secunderabad,9999900009,Karthik,20,Jubilee Bus Station,17.43,78.50 ,500026,04:30:00
